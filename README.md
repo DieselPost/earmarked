@@ -1,6 +1,6 @@
 ## Earmarked
 
-Earmarked by [Refueled](https://refueled.net).
+Earmarked by [DieselPost](https://dieselpost.com).
 Earmarked is a sleek, minimalist theme designed to be the perfect foundation for creating blogs.
 
 ## Files to edit
